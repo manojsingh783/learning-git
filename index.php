@@ -1,4 +1,5 @@
 <?php
+echo "hi";
 $errorlevel=error_reporting();
 echo ($errorlevel);
 ini_set('display_errors', 1);
